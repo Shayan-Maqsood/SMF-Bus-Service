@@ -1,0 +1,27 @@
+From:LAHORE To:FAISALABAD Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:LAHORE To:FAISALABAD Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:LAHORE To:FAISALABAD Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:LAHORE To:FAISALABAD Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:FAISALABAD To:LAHORE Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:FAISALABAD To:LAHORE Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:FAISALABAD To:LAHORE Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:FAISALABAD To:LAHORE Price:1130 Seats:49 Distance:178Km Time:1Hrs&50Min
+From:RAWALPINDI(MAIN) To:LAHORE Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:RAWALPINDI(MAIN) To:LAHORE Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:RAWALPINDI(MAIN) To:LAHORE Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:RAWALPINDI(MAIN) To:LAHORE Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:LAHORE To:RAWALPINDI(MAIN) Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:LAHORE To:RAWALPINDI(MAIN) Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:LAHORE To:RAWALPINDI(MAIN) Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:LAHORE To:RAWALPINDI(MAIN) Price:3300 Seats:49 Distance:400Km Time:4Hrs&15Min
+From:FAISALABAD To:RAWALPINDI(MAIN) Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:FAISALABAD To:RAWALPINDI(MAIN) Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:FAISALABAD To:RAWALPINDI(MAIN) Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:FAISALABAD To:RAWALPINDI(MAIN) Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:RAWALPINDI(MAIN) To:FAISALABAD Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:RAWALPINDI(MAIN) To:FAISALABAD Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:RAWALPINDI(MAIN) To:FAISALABAD Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+From:RAWALPINDI(MAIN) To:FAISALABAD Price:1530 Seats:49 Distance:439Km Time:4Hrs&00Min
+
+
+

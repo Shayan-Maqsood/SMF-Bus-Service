@@ -1,0 +1,17 @@
+Shayan Maqsood|LAHORE|RAWALPINDI(MAIN)|Tue, 17 Dec 2024|bus1|1|3300|male
+Shayan Maqsood|RAWALPINDI(MAIN)|LAHORE|Wed, 18 Dec 2024|bus5|1|3300|male
+Shayan Maqsood|RAWALPINDI(MAIN)|LAHORE|Wed, 18 Dec 2024|bus5|1|3300|male
+mahad asif|RAWALPINDI(MAIN)|FAISALABAD|Wed, 18 Dec 2024|bus5|7|1530|male
+mahad asif|RAWALPINDI(MAIN)|FAISALABAD|Wed, 18 Dec 2024|bus5|8|1530|male
+Shayan Maqsood|LAHORE|RAWALPINDI(MAIN)|Tue, 17 Dec 2024|bus1|2|3300|male
+mahad asif|RAWALPINDI(MAIN)|FAISALABAD|Wed, 18 Dec 2024|bus5|14|1530|male
+|RAWALPINDI(MAIN)|LAHORE|Thu, 19 Dec 2024|bus9|8|3300|male
+mahad asif|LAHORE|FAISALABAD|Wed, 18 Dec 2024|bus5|7|1130|male
+mahad asif|LAHORE|FAISALABAD|Wed, 18 Dec 2024|bus5|13|1130|male
+Handu Shah|RAWALPINDI(MAIN)|FAISALABAD|Sun, 22 Dec 2024|bus15|8|1530|male
+Shayan Maqsood|RAWALPINDI(MAIN)|LAHORE|Thu, 19 Dec 2024|bus1|3|3300|male
+Shayan Maqsood|RAWALPINDI(MAIN)|LAHORE|Thu, 19 Dec 2024|bus1|4|3300|female
+Taha Anjum|RAWALPINDI(MAIN)|LAHORE|Fri, 20 Dec 2024|bus5|4|3300|female
+Taha Anjum|RAWALPINDI(MAIN)|LAHORE|Fri, 20 Dec 2024|bus5|3|3300|male
+Shayan Maqsood|LAHORE|RAWALPINDI(MAIN)|Thu, 19 Dec 2024|bus1|3|3300|female
+bilal ahmed|RAWALPINDI(MAIN)|LAHORE|Tue, 24 Dec 2024|bus15|30|3300|male
