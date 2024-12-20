@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/home.png</file>
+        <file>img/more.png</file>
+        <file>img/noti.png</file>
+        <file>img/play.png</file>
+        <file>img/search-interface-symbol.png</file>
+        <file>img/tickets.png</file>
+    </qresource>
+</RCC>
